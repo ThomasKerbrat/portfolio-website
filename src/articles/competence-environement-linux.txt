@@ -1,0 +1,28 @@
+
+# Environnement Linux
+
+Dans le monde informatique, chaque ordinateur personnel, chaque serveur, chaque machine, possède un « système d’exploitation ». Ce système permet d’exploiter les composants matériels comme le disque dur, la souris ou la webcam. Il offre une couche d’abstraction pour les logiciels qui seront lancés par la suite.
+
+Par exemple, les logiciels n’ont pas besoin de savoir communiquer avec tous les modèles de webcam différents sur le marché, mais vont utiliser le système d’exploitation pour faire l’intermédiaire. La garantie est de continuer de pouvoir communiquer avec tous les modèles de webcam, y compris les nouveaux, tant que l’on reste sur le même système d’exploitation.
+
+## Linux, Windows et macOS entrent dans un bar…
+
+« Linux » peut faire référence au noyau Linux ou à la famille de systèmes d’exploitations dérivés de ce noyau, aussi appelés « distributions ». Il existe beaucoup de distributions basés sur le noyau Linux, notamment Ubuntu, Debian ou RHEL (Red Hat Entreprise Linux) pour n’en citer que trois. Il existe d’autres systèmes d’exploitations, les deux plus connus sont Windows de l’entreprise Microsoft et macOS de l’entreprise Apple.
+
+Parmi les ordinateurs personnels (ordinateurs de bureau, ordinateurs portables) Microsoft Windows est très largement populaire. macOS est aussi présent sur tous les ordinateurs de la marque Apple. Cependant, en dehors de ce marché, Linux est omniprésent : les serveurs web, les super-calculateurs, l’infrastructure internet, les téléphones portables.
+
+## De la découverte à l’adoption
+
+Dans mon expérience en ingénierie du logiciel, j’ai pris connaissance de l’environnement linux à l’école dans le cadre des cours et par curiosité, puis plus sérieusement à l’occasion du projet d’application de facturation que j’ai réalisé pour l’entreprise Solipropre. J’ai utilisé Ubuntu Server pour mettre l’application en production et la rendre disponible à ma cliente.
+
+Je suis quelqu’un de très sensible au discours du logiciel libre, et notamment autour de l’idée que l’utilisateur doit avoir le contrôle des programmes qu’il exécute sur son ordinateur. C’est pour cette raison, et à cause de l’arrivée forcée de Windows 10, que j’ai décidé d’installer le système d’exploitation Debian sur mon ordinateur principal pour reprendre le contrôle. J’utilise désormais au quotidien un système Linux et cela me permet d’utiliser un environnement robuste, stable et libre !
+
+## Vers l’infini et au delà !
+
+Mon niveau de maitrise de l’environnement Linux est encore fragile. J’ai appris tout ce que je sais par moi-même lorsque j’en avais besoin. Grâce à ma curiosité naturelle, j’apprends et je met en pratique rapidement de nouveaux concepts. Je pense pouvoir encore progresser dans les années qui viennent, principalement sur les connaissances fondamentales de Linux et de son fonctionnement ainsi que sur des technologies plus avancés.
+
+Je conseillerais à tout enthousiaste technophile de s’intéresser à Linux car cet environnement offre de vrais super-pouvoirs comparés aux autres systèmes d’exploitation. Que ce soit pour le contrôle de ses logiciels et de sa liberté que pour la puissance des outils qui nous sont proposés.
+
+## Conclusion
+
+En conclusion, Linux continuera de faire parti de mes compétences techniques. Il est omniprésent dans le monde de l’informatique et il me correspond dans son aspect du logiciel libre.

@@ -1,0 +1,13 @@
+- var view = "skills"
+
+doctype html
+html(lang="fr")
+    include ../includes/head.pug
+    body.my-portfolio
+        include ../includes/nav.pug
+
+        div.container.my-4
+            section.bg-white.p-5.rounded
+                include:markdown-it ../articles/competence-developpeur-full-stack.txt
+
+        include ../includes/footer.pug

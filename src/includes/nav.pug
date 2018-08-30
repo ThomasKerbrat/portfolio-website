@@ -1,0 +1,12 @@
+-
+    var menu = [
+        { name: 'home',         display: 'Accueil',       href: '/index.html'},
+        { name: 'skills',       display: 'Compétences',   href: '/competences.html'},
+        { name: 'realizations', display: 'Réalisations',  href: '/realisations.html'},
+        { name: 'experiences',  display: 'Expériences',   href: '/experiences.html'},
+    ];
+
+nav.sticky-top.py-2.bg-dark
+    div.container.d-flex.flex-column.flex-md-row.justify-content-start
+        each menuItem in menu
+            a.p-2.mx-4.d-inline-block.text-light(href=menuItem.href class=(view === menuItem.name ? 'font-weight-bold' : ''))= menuItem.display

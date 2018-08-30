@@ -1,0 +1,28 @@
+
+# Recueil des besoins
+
+Lorsqu’un client souhaite réaliser un projet, il faut s’assurer d’avoir une bonne compréhension de ses besoins. Cette compréhension aura une influence sur la satisfaction du client. Il est donc important de l’accompagner afin de préciser et de clarifier ses besoins. Plus la compréhension des besoins sera précise, plus l’implémentation technique correspondra à ce qui est attendu. J’ai pu découvrir et mettre en oeuvre à plusieurs reprises le recueil des besoin grâce à mon activité d’auto-entrepreneur.
+
+## Définir une base commune (un vocabulaire commun)
+
+En tant qu’ingénieur, mon vocabulaire et mes connaissances ne sont pas les mêmes que ceux de mes clients. Cela peut être une difficulté pour la compréhension du besoin. Une étape d’adaptation sera nécessaire pour définir et préciser les concepts mis en jeux ainsi que pour se rendre compte de l’environnement dans lequel s’inscrit le projet de développement.
+
+Pour s’assurer d’une bonne compréhension d’un besoin, il est nécessaire de restituer cette compréhension initiale pour la faire valider par le client lui-même. Cela se fait directement lors du recueil, et par la suite de manière plus formelle, par des documents de spécifications.
+
+## Accompagner dans le choix d’une solution
+
+À la suite de l’analyse technique des besoins, je propose des solutions au client. Ces solutions ont des avantages et des inconvénients et mon rôle est d’accompagner le client dans le choix d’une solution la plus adaptée à ses besoins et à leur évolution future.
+
+Dans le cadre de mon alternance chez Quod Financial, j’ai eu l’occasion d’imaginer et de proposer plusieurs solutions techniques lorsque j’ai réalisé une librairie de wizard* avec le framework Angular. J’ai mis en oeuvre mes capacités de réflexion intenses pour prendre connaissance de la documentation pour proposer deux solutions qui me paraissait les meilleures. Nous avons ensuite décidé en concertation avec l’équipe de développement quelle solution serait la plus adaptée aux besoins du client mais aussi aux besoins futur de maintenance de l’entreprise.
+
+* Un wizard permet de découper un long formulaire en une série de plusieurs petits écrans dédiés à une partie cohérente en elle-même dudit formulaire.
+
+## La responsabilité du professionnel
+
+Un client n’est pas toujours averti des obligations ou des risques des technologies qui sont utilisées. En tant que professionnel, il est de ma responsabilité d’informer le client. Cela participe à faire le bon choix. Entre développer une solution de zéro et réutiliser une plateforme existante, il y aura une différence sur le coût de la prestation ou de la maintenance ultérieure. Développer une solution à partir de zéro permet d’être extrêmement fidèle à l’expression des besoins du client mais ne permet pas de bénéficier automatiquement des bonnes pratiques de sécurité ou d’ergonomie de solution déjà existantes.
+
+Chaque système, informatique ou non, est en interaction avec d’autres systèmes. Par exemple, la facture émise par un logiciel de facturation sera lue par un client, un comptable ou possiblement par un inspecteur. Connaître les parties prenantes est un point essentiel. Cela permet de prendre en considération les besoins indirects et les obligations devant la loi, un aspect essentiel de la responsabilité du professionnel. Lorsque j’ai réalisé un logiciel de gestion de contrats de travail, j’ai dû me renseigner avec ma cliente à propos des aspect légaux de l’embauche de personnel étranger. Nous avons donc mis en place une « fiche de renseignement » à destination de la préfecture pour demander si l’employé était en règle.
+
+## Conclusion
+
+Le recueil des besoins est une compétence que j’ai acquise assez rapidement. Dès le semestre 2 à IN’TECH, nous devons rédiger des documents de spécification. Cela nous permet de nous mettre en situation dans un cadre pédagogique. Ma particularité est d’avoir réutilisé cette compétence peu de temps après l’avoir apprise à l’école pour réaliser un logiciel de facturation, toujours en production 4 ans après. J’utilise le recueil des besoin surtout dans le cadre de mon auto-entreprise car je ne peux pas appliquer cette compétence partout. Cependant, certains aspects de communication et de compréhension sont très utiles dans d’autres circonstances, y compris personnelles.

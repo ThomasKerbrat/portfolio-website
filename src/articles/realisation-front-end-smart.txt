@@ -1,0 +1,32 @@
+
+# Front End Smart
+
+Le projet Front End Smart (ou FE Smart) s’est déroulé dans l’entreprise Quod Financial. Il s’agissait de créer une interface web, accessible par un navigateur internet, pour faire l’administration des bases de données clientes. Il s’agissait donc d’un projet de grande envergure, car la quasi totalité du domaine métier devait être couvert par ce logiciel.
+
+En parallèle de cette interface, il existait déjà un « client lourd , un logiciel d’administration réalisé en C# et qui s’exécutait sur Windows. Nous nous sommes très largement inspiré de ce projet pour créer les écrans et les fonctionnalités du FE Smart. C’était aussi l’occasion de faire du tri dans ce qui n’avait plus lieu d’être et ainsi améliorer l’expérience utilisateur.
+
+## La rapidité pour convaincre
+
+Un client de l’entreprise Quod Financial souhaitait pouvoir bénéficier d’une interface web pour l’administration des bases de données. Il avait été séduit par les précédents projets que nous avions réalisé avec les même technologies. C’était aussi une opportunité pour Quod Financial de moderniser son catalogue d’application, car une interface web est beaucoup plus accessible qu’un logiciel que l’on doit installer sur le poste de l’utilisateur. Cela nécessite souvent d’installer d’autres logiciels complémentaires.
+
+Étant donné l’étendu gigantesque des fonctionnalités couvertes par le client lourd, il a été décidé dès le début de procéder par étapes. Notre objectif dans un premier temps était de mettre en place les bases du FE Smart, l’architecture logicielle et les quelques fonctionnalités nécessaire pour le premier client. L’enjeu était de pouvoir livrer ce projet rapidement, c’est-à-dire entre 6 et 9 mois après le début du développement. Si nous arrivions à tenir ce délai, il nous serait plus facile de convaincre les futurs clients de financer d’autres parties de ce logiciel car nous aurions eu une version de démonstration réelle à leur présenter.
+
+## La réalisation, entre neuf et ancien
+
+Pour réaliser ce projet, j’était accompagné d’un collègue qui a travaillé avec moi à la conception et à la réalisation du logiciel. Avant ce projet, nous avions créé deux autres application similaires : les Front End Tablet et Mobile. C’est tout naturellement que nous avons repris la même technologie, à savoir Angular. Cependant, nous en avons profité pour adopter la dernière version en date et aussi passer au langage TypeScript.
+
+Nous nous sommes beaucoup amusé et investi dans la conception de l’architecture logicielle. Il s’agissait d’un projet totalement nouveau, aucun choix technique antérieur n’avais été pris et nous avions carte blanche dans notre approche. Nous avons adopté pour une approche modulaire du développement ainsi que pour l’application stricte du principe d’inversion de dépendance.
+
+En même temps que nous avancions sur l’architecture logicielle, d’autres réunions se déroulaient pour décider des fonctionnalités à inclure dans la première version de ce logiciel. Pour cela, nous avions un interlocuteur qui se chargeait de rapporter les besoins du client et de les intégrer avec les besoins de Quod Financial. Car le produit que nous allions développer serait propre à l’entreprise, puis utilisé ensuite par plusieurs client. Il fallait donc concilier les besoins de Quod Financial et les cas particuliers.
+
+Cela a été l’occasion pour les autres équipes de faire du ménage dans le code et d’apporter des améliorations bienvenues pour notre projet. Cependant, nous devions être prudent dans les modifications à apporter car l’architecture logicielle globale à Quod Financial exposes de nombreuses inter-dépendances des composants entre eux. Par exemple, nous ne pouvions pas changer une procédure stockée en base de donnée sans impacter deux ou trois composants logiciels au niveau d’au dessus. 
+
+## Une fin abrupte, mais satisfaisante
+
+Après plusieurs mois de développement, nous avions un résultat plus que correct. Nous avions appliqué tous les codes qui ont fait le succès de nos applications précédentes tout en bénéficiant d’une surface d’affichage beaucoup plus grande grâce à une taille d’écran ciblée plus large.
+
+Pour ma part, j’ai quitté l’entreprise pour des raisons de santé vers la fin du projet. Bien que je n’ai pas eu la satisfaction d’aller au bout, j’ai beaucoup appris d’un point de vue technique. Je pense avoir apporté tout mon sérieux et mon professionnalisme à la conception de l’architecture logicielle. Aujourd’hui le projet continue d’exister et il apporte un vent de fraîcheur dans la gamme des logiciels proposés par Quod Financial.
+
+## Conclusion
+
+Ce projet a été une belle démonstration de notre capacité technique. Nous avons réutilisé nos expériences passés pour prendre les bonnes décisions d’architecture et de code tout en utilisant les dernières technologies. C’était un projet hybride, à la fois interne et destiné à un client. Nous avions donc toute la liberté technique et un objectif clair et précis dans un temps donné. Ce logiciel continuera d’être développé et j’espère que ma contribution initiale sera utile encore longtemps.

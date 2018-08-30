@@ -1,0 +1,32 @@
+
+# Savoir Être Aidant
+
+Le projet Savoir Être Aidant avait pour objectif de former les « aidants », et à sensibiliser les personnes ne se sachants pas aidants elles-mêmes, dans le but d’améliorer la vie des malades. Un aidant désigne la personne qui s’occupe d’un malade, d’une quelconque façon. L’aidant n’est pas obligatoirement qualifié pour faire ce travail, il s’agit souvent des enfants qui s’occupent de leurs parents lorsqu’ils arrivent en fin de vie. Les associations Campus Urbain Seine Amont et Silver Innov’ ont produit une série de vidéos qui ont été publiées sur YouTube. En plus de ces vidéos, les clients ont d’organisé des sessions de formation « présentielles » (c’est-à-dire qui se font dans le monde physique, en opposition au monde numérique) qui prendraient appuie sur un site internet.
+
+Ce site internet devait servir de support numérique aux formations présentielles, en apportant une série de fonctionnalité pour le rendre indépendant. Ainsi, tout un chacun pouvait s’inscrire sur le site, visionner les vidéos et répondre à des questionnaires pour tester leurs connaissances.
+
+## Le contexte
+
+Lors de ce projet, j’étais accompagné d’un étudiant de l’école IN’TECH qui s’occupait des graphismes. Nous étions tous les deux auto-entrepreneur. Nous avons commencé par recueillir les besoins de nos clients et avons produit un cahier des charges. Les objectifs initiaux du projet étaient donc les suivants : la création d’un site internet pour visionner les vidéos et répondre à des questionnaires et la création d’une interface d’administration pour gérer le contenu du site.
+
+Les clients souhaitaient déployer leur formation en premier lieu dans la ville d’Ivry-sur-Seine, et plus largement dans le département du Val-de-Marne. L’enjeu était donc important pour moi et mon collègue. Nous devions produire un site internet qui allait potentiellement changer la vie en mieux de nombreuses personnes. Si notre solution n’arrivait pas à son terme, nous prenions le risque de ne pas améliorer le quotidien des personnes qui en avait besoin.
+
+## La réalisation
+
+Après la phase d’avant-projet, nous nous sommes attelé à construire la solution technique que nous avions imaginé. Celle-ci se présente sous la forme classique d’une architecture 3-tiers, c’est-à-dire base de données, serveur web applicatif et site internet. Mon collègue s’est plutôt occupé des visuels de ce à quoi allait ressembler le site, pendant que je m’occupais de mettre en place l’architecture, l’environnement de développement et la base de données.
+
+Notre avancé dans le projet a été ralentie à de nombreuses reprises pour diverses raisons. D’une part, nous devions nous former sur des technologies que nous ne maitrisions pas et d’autre part, nous avions une occupation à plein temps en parallèle de ce projet. J’étais en alternance dans une entreprise pour ma part, et mon collègue étais encore à l’école pour son cinquième semestre. Ces difficultés nous ont handicapé par la suite car nous n’avions pas pris l’habitude de communiquer régulièrement notre avancement aux clients. Ils se retrouvaient surpris et parfois même en colère de notre manque de professionnalisme. Cela a été un vecteur d’apprentissage pour nous.
+
+Le projet avait commencé depuis quatre mois et nous avions déjà du retard. Cette situation ne s’est pas arrangé avec ce qui a suivi…
+
+## La dégringolade
+
+En l’espace de trois mois, mon collègue et moi avons abandonné le projet pour des raisons de santé. Sans rentrer dans les détails, nous ne pouvions plus assurer la prestations que nous nous étions proposer de réaliser. Le résultat pour moi est mitigé. Du bon côté des choses, j’ai beaucoup appris techniquement. J’ai réussi à implémenter les bases d’une architecture 3-tiers uniquement grâce à du JavaScript, j’ai pris connaissance de documentations techniques à propos du framework O-Auth ([RFC-6749](https://tools.ietf.org/html/rfc6749)) et bien d’autres petites choses techniques. Cependant, du mauvais côté des choses, le projet a pris énormément de retard. Nous avons très mal gérer les relations avec nos clients alors que j’avais déjà de l’expérience grâce à mon projet avec l’entreprise Solipropre.
+
+Aujourd’hui, le projet a été repris par un autre développeur. J’ai effectué un passage de relai avec lui car j’étais celui qui avait le plus de connaissance sur le projet. À la fois sur la technique, que sur les spécifications.
+
+## Conclusion
+
+Pour conclure, je dirais que ce projet a globalement été un échec. Nous n’avons pas livré ce que nous avions promis et le projet a pris énormément de retard. Les problèmes de santé qui m’ont affectés n’ont pas arrangé cette situation. Cependant, après un an de recul, je commence à accepter cet échec et à le porter comme un exemple de ce qu’il ne faudra pas refaire. Je devrai soigner la communication avec le client, mieux estimer les délais de réalisation (même s’ils paraissent long) et respecter les délais en priorisant les tâches.
+
+Être au contact du client en free-lance est une toute autre expérience que d’être développeur salarié. Il y a davantage de pression car on doit s’occuper de beaucoup plus de choses différentes et le plus souvent dans des délais raccourcis. Aussi, il n’y a pas le filtre que l’on pourrait avoir de la part de son responsable ou de l’équipe marketing. Nous sommes en prise direct avec le client, cela demande d’être empathique mais aussi de prendre du recul pour pouvoir piloter le projet.

@@ -1,0 +1,27 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jstransformer-markdown-it": "^2.1.0",
+    "local-web-server": "^2.6.0",
+    "pug-cli": "^1.0.0-alpha6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm run copy && npm run pug",
+    "build:watch": "npm run copy && npm run pug -- --watch",
+    "prebuild": "rm -r build/*",
+    "copy": "npm run copy:assets && npm run copy:css && npm run copy:js",
+    "copy:assets": "cp -r assets/* build/",
+    "copy:css": "cp src/css/* build/css/",
+    "copy:js": "cp src/js/* build/js/",
+    "pug": "pug --pretty --basedir src/ --out build/ src/",
+    "postpug": "rm -r build/includes/",
+    "serve": "ws --directory build/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,31 @@
+
+# JavaScript
+
+o langage informatique web (mais pas que) de haut niveau
+- très populaire + grande communauté open-source = beaucoup d’aide
+o training lab, savoir être aidant
+- bon niveau aujourd’hui, continuer vers NodeJS, Electron
+
+Le JavaScript est un langage de programmation informatique principalement destiné à enrichir l’expérience utilisateur sur les sites internet. C’est un langage facile d’accès pour les débutants mais il se révèle très puissant lorsque l’on maîtrise ses principes fondamentaux. Il est souvent combiné avec deux autres langages du monde web : le HTML et le CSS. Ils forment à eux trois la base technologique de tous les sites web modernes. Aussi, depuis le début des années 2010, grâce à Node.js, le JavaScript peut être utilisé pour créer des applications en dehors du navigateur et il devient un langage de programmation généraliste. Il peut être utilisé pour créer des applications console en ligne de commande, des serveurs web, ou des application de bureau classiques.
+
+## TypeScript, la nouvelle mouture du web
+
+La prise en main du JavaScript m’a beaucoup plu, car je pouvais désormais ajouter des fonctionnalités à mes sites internet statiques pour les rendre dynamiques. Un avantage de ce langage est qu’il ne nécessite pas d’étape de compilation. On dit que c’est un langage « interprété ». Ainsi, les développeurs bénéficient de cycles de prototypage, d’expérimentation et de débogage beaucoup plus rapide qu’avec un langage compilé. Cela m’a permis de mettre rapidement en pratique toutes les idées que je pouvais avoir lors de mon apprentissage de la programmation.
+
+Les langages interprétés souffrent néanmoins de ne pas avoir d’étape de compilation. Cette dernière permet de repérer des erreurs d’inattention, comme des fautes de frappes ou des erreurs de logique (par exemple, je ne peux pas additionner un nombre avec la lettre A). Ces erreurs triviales ne sont détectées qu’au moment où le programme s’exécute. Ainsi, de plus en plus d’entreprises adoptent un nouveau langage : TypeScript. Il s’agit d’une extension de JavaScript qui permet d’annoter le code avec des informations supplémentaires. Ce code est ensuite **compilé** vers du JavaScript standard et l’on évite ainsi une majorité de bogues et d’erreurs fréquentes. TypeScript offre donc un entre-deux appréciable pour la stabilité qu’il offre, ainsi que pour la souplesse dont il bénéficie grâce à l’écosystème JavaScript existant.
+
+## L’apprentissage par la pratique
+
+Aujourd’hui, JavaScript est mon langage de prédilection lorsque je souhaite créer de nouveaux projets. Deux d’entre-eux illustrent ma progression avec ce langage et les technologies web associées.
+
+Le premier projet, **TrainingLab**, était un prototype d’un Jeu Sérieux (Serious Game) visant à apprendre aux chercheurs du CEA à promouvoir, financer et réaliser leurs sujets d’étude. Il s’agissait d’un projet étudiant que j’ai réalisé avec l’aide de deux camarades de classe. Nous avions la chance et l’opportunité d’avoir une cliente qui nous a exposé un besoin réel qui s’inscrivait dans une démarche professionnelle de sa part. Nous avons donc utilisé JavaScript pour programmer l’interface de l’application web dans le navigateur sous la forme d’un Single Page Application (SPA). Cette application communiquait avec un serveur grâce à la technologie SignalR de Microsoft qui permet d’envoyer des requêtes et de recevoir des réponses sans recharger la page web. Cela permet d’offrir une expérience de navigation plus agréable pour l’utilisateur. TraininLab m’a permit de mettre en pratique les premières notions de JavaScript que j’avais apprises, dans un projet relativement complexe pour mon niveau de l’époque. Satisfait de cette expérience, j’ai continué d’apprendre et d’utiliser JavaScript dans mes futurs projets.
+
+Le deuxième projet, Savoir Être Aidant, est un site internet qui présente des vidéos d’éducation et de sensibilisation à l’égard des aidants. Un « aidant » est une personne responsable de la santé, physique ou mentale, d’une autre personne (le plus souvent, un proche ou un parent). Les vidéos abordent des sujets variés comme la mobilité, la dépendance ou les maladies neurodégénératives. Elles ont été réalisées spécialement pour ce projet et ont bénéficié d’un financement de l’Union Européenne. Sur ce projet, j’étais accompagné d’un graphiste, tandis que je m’occupais de la partie programmation. J’ai pu mettre en oeuvre toutes mes compétences acquises depuis le projet TrainingLab (trois ans plus tôt). Sur ce projet, la totalité de la programmation était réalisé avec JavaScript, à la fois pour le serveur que pour l’application web. Nous avons utilisé ExpressJS pour implémenter le serveur et VueJS pour l’application web. La communication entre les deux se faisait grâce à des requêtes HTTP standards suivant l’architecture [REST][1]. Ce projet est l’illustration que j’ai pu déployer mes compétences pour réaliser la totalité des composants nécessaires à la création d’une application web dynamique en JavaScript.
+
+[1]: https://fr.wikipedia.org/wiki/Representational_state_transfer
+
+## Conclusion
+
+Je considère aujourd’hui que j’ai un bon niveau en JavaScript. J’ai eu l’occasion d’approfondir les principes fondamentaux du langage grâce à ma formation en alternance à IN’TECH. Cependant, l’écosystème JavaScript bouge rapidement. De nouvelles fonctionnalités sont ajoutés au langage chaque année. De nouvelles librairies et frameworks sont créer en permanence. Il faut donc que je me tienne informé, tout en faisant le tri dans le bruit de fond permanent de cet écosystème.
+
+J’ai l’intention d’étendre mes connaissances JavaScript en poursuivant mon apprentissage des technologies liés à NodeJS, et notamment Electron qui permet de créer des application graphiques telles qu’on a l’habitude de manipuler à l’instar de Word, iTunes ou l’explorateur de fichier. Cela me permettra d’être encore plus polyvalent dans mes domaines d’intervention et dans les solutions que je peux proposer en tant que développeur.
