@@ -6,3 +6,9 @@
 .my-portfolio nav {
     background-color: #246;
 }
+
+.summary-image-illustration {
+    width: 200px;
+    height: 200px;
+    margin-right: 1rem;
+}
