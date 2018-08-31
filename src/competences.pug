@@ -10,7 +10,18 @@ html(lang="fr")
             section.bg-white.p-3.p-sm-5.rounded
                 h1 Compétences
 
-                h2.mt-4 Anglais
+                p.
+                    Cette page vous présente certaines de mes compétences les plus importantes.
+                    Vous trouverez une courte description et un lien pour consulter l’article détaillé.
+                    Ci-après ce trouve un schéma représentant mon niveau actuel dans chaque compétence ainsi que leur évolution dans deux ans.
+
+                figure.figure.mx-auto.d-flex.flex-column.align-items-center
+                    img.figure-img.img-fluid.rounded(src="img/schema-competences.png")
+                    figcaption.figure-caption.text-center Schéma comparatif de mes compétences
+
+                h2.mt-5 Compétences non-techniques
+
+                h3.mt-3 Anglais
                 div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
                     img.summary-image-illustration(src="img/uk-flag.png")
                     p
@@ -18,7 +29,17 @@ html(lang="fr")
                         br
                         a(href="competence-anglais.html") Lire l'article
 
-                h2.mt-4 Développement full stack
+                h3.mt-3 Recueil des besoins
+                div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
+                    img.summary-image-illustration(src="img/requirements.png")
+                    p
+                        | Les ingénieurs et développeurs en informatique fournissent leur savoir-faire à leurs clients. Ce sont ces derniers qui sont à l’origine du besoin. Il faut donc savoir le recueillir en détail pour que les développeurs puissent « traduire » les besoins en code informatique.
+                        br
+                        a(href="competence-recueil-besoins.html") Lire l'article
+
+                h2.mt-5 Compétences techniques
+
+                h3.mt-3 Développement full stack
                 div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
                     img.summary-image-illustration(src="img/full-stack.png")
                     p
@@ -26,7 +47,7 @@ html(lang="fr")
                         br
                         a(href="competence-developpeur-full-stack.html") Lire l'article
 
-                h2.mt-4 Environement Linux
+                h3.mt-3 Environement Linux
                 div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
                     img.summary-image-illustration(src="img/linux-logo.png")
                     p
@@ -34,20 +55,12 @@ html(lang="fr")
                         br
                         a(href="competence-environement-linux.html") Lire l'article
 
-                h2.mt-4 JavaScript
+                h3.mt-3 JavaScript
                 div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
                     img.summary-image-illustration(src="img/javascript-logo.png")
                     p
                         | JavaScript est le langage incontournable sur le web. Que ce soit pour créer des petites fonctionnalités pour améliorer l’interactivité d’un site internet, ou réaliser une application professionnelle de bout en bout, ce langage est la référence pour tout développeur web.
                         br
                         a(href="competence-javascript.html") Lire l'article
-
-                h2.mt-4 Recueil des besoins
-                div.d-flex.flex-column.flex-md-row.justify-content-start.align-items-start
-                    img.summary-image-illustration(src="img/requirements.png")
-                    p
-                        | Les ingénieurs et développeurs en informatique fournissent leur savoir-faire à leurs clients. Ce sont ces derniers qui sont à l’origine du besoin. Il faut donc savoir le recueillir en détail pour que les développeurs puissent « traduire » les besoins en code informatique.
-                        br
-                        a(href="competence-recueil-besoins.html") Lire l'article
 
         include includes/footer.pug
