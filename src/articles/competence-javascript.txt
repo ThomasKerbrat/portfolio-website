@@ -1,11 +1,6 @@
 
 # JavaScript
 
-o langage informatique web (mais pas que) de haut niveau
-- très populaire + grande communauté open-source = beaucoup d’aide
-o training lab, savoir être aidant
-- bon niveau aujourd’hui, continuer vers NodeJS, Electron
-
 Le JavaScript est un langage de programmation informatique principalement destiné à enrichir l’expérience utilisateur sur les sites internet. C’est un langage facile d’accès pour les débutants mais il se révèle très puissant lorsque l’on maîtrise ses principes fondamentaux. Il est souvent combiné avec deux autres langages du monde web : le HTML et le CSS. Ils forment à eux trois la base technologique de tous les sites web modernes. Aussi, depuis le début des années 2010, grâce à Node.js, le JavaScript peut être utilisé pour créer des applications en dehors du navigateur et il devient un langage de programmation généraliste. Il peut être utilisé pour créer des applications console en ligne de commande, des serveurs web, ou des application de bureau classiques.
 
 ## TypeScript, la nouvelle mouture du web

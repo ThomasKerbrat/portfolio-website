@@ -7,7 +7,18 @@ html(lang="fr")
         include ../includes/nav.pug
 
         div.container.my-4
-            section.bg-white.p-5.rounded
-                include:markdown-it ../articles/competence-developpeur-full-stack.txt
+            div.row
+                div.col-8
+                    section.bg-white.p-5.rounded
+                        include:markdown-it ../articles/competence-developpeur-full-stack.txt
+                div.col-4
+                    section.bg-white.p-3.rounded
+                        h3 Mes autres compétences
+                        ul.list-group.list-group-flush
+                            li.list-group-item: a(href="/competences/anglais.html") Anglais
+                            li.list-group-item: a(href="/competences/developpeur-full-stack.html") Développeur Full-Stack
+                            li.list-group-item: a(href="/competences/environement-linux.html") Environement Linux
+                            li.list-group-item: a(href="/competences/javascript.html") JavaScript
+                            li.list-group-item: a(href="/competences/recueil-besoins.html") Recueil des besoins
 
         include ../includes/footer.pug
