@@ -8,15 +8,15 @@ html(lang="fr")
 
         main.container(role="main")
             div.row
-                div.col-8
+                div.col-md-8
                     section.bg-white.p-3.p-sm-5.rounded
                         include:markdown-it articles/realisation-front-end-smart.txt
-                div.col-4
+                div.col-md-4.mt-3.mt-md-0
                     section.bg-white.p-3.rounded
                         h3 Mes autres réalisations
                         ul.list-group.list-group-flush
                             li.list-group-item: a(href="realisation-application-facturation.html") Application de facturation
-                            li.list-group-item: a(href="realisation-front-end-smart.html") Front-End Smart
+                            li.list-group-item Front-End Smart
                             li.list-group-item: a(href="realisation-savoir-etre-aidant.html") Savoir Être Aidant
 
         include includes/footer.pug
