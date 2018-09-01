@@ -9,9 +9,15 @@ html(lang="fr")
         main.container(role="main")
             section.bg-white.p-3.p-sm-5.rounded
                 h1 Thomas Kerbrat
-                p Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus quam blanditiis possimus officia. Voluptates, sapiente nostrum. Tenetur labore vitae quisquam. Soluta iusto eum tenetur sequi accusamus blanditiis maxime, odit dolor?
+                include:markdown-it articles/presentation-generale.txt
+
+                figure.figure.d-flex.flex-column.align-items-center
+                    img.figure-img.img-fluid.rounded.border.border-light(src="img/kerbrat_thomas_photo_identite.jpg")
 
                 h2 Contact
-                p Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae repellat perferendis deleniti ducimus quam. Nobis natus totam quis, exercitationem consectetur labore veniam et. Maxime velit vero sequi recusandae mollitia cum.
+                address.
+                    Email : <a href="mailto:kerbrat@outlook.com">kerbrat@outlook.com</a><br>
+                    GitHub : <a href="https://github.com/ThomasKerbrat">@ThomasKerbrat</a><br>
+                    LinkedIn : <a href="https://www.linkedin.com/in/thomas-kerbrat-998a4888">thomas-kerbrat-998a4888</a>
 
         include includes/footer.pug
