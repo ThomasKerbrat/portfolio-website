@@ -1,0 +1,24 @@
+
+# Front End Tablet
+
+Mon premier projet, lorsque je suis arrivé à Quod Financial, a été le Front End Tablet. Comme son nom l'indique, il s'agissait d'une application destinée à être utilisée sur des tablettes tactiles. Ce fut pour moi ma **première expérience en entreprise**, alors j’avais beaucoup à apprendre. Ce projet était commandité par un client de l’entreprise, ce qui nous a conféré à mon équipe et moi un objectif concret. Certains projets de Quod Financial sont développés en internes, puis proposés aux clients par la suite. Ce fut le cas pour un autre projet : le Front End Smart.
+
+## Comparer pour choisir
+
+Ce projet a débuté deux semaines après que je sois arrivé dans l’entreprise. Une des premières tâches que l’on m’a confié était de **comparer les technologies** de l’époque pour ensuite décider de celle que l’on choisirai pour le projet. Nous avions le choix entre AngularJS et Sencha. Le premier est un framework complet et complexe comparé au deuxième qui s’apparente d’avantage à une grosse librairie que l’on aurait plus qu’à configurer grâce à du JavaScript simplifié.
+
+Durant deux semaines, j’ai implémenté des applications de teste avec les deux options qui s’offraient à nous. Finalement, **nous avons opté pour AngularJS**, en concertation avec un autre développeur qui travaillait sur le projet et notre responsable technique commun. Nous nous sommes ensuite répartis les tâches. Mon collègue avait davantage d’expérience dans le développement web, c’est donc lui qui s’est occupé de mettre en place la base de code initiale. Comme chaque parties de l’application était assez indépendantes les unes des autres, nous avons pu **travailler en parallèle** après cette première mise en place.
+
+## Une équipe qui apprend
+
+Autour de mon collègue et moi qui nous occupions du développement logiciel, Quod Financial disposait **d’autres collaborateurs** qui s’occupaient des aspects de spécification, d’environnement de (pré-)production et d’assurance qualité. Tous ces interlocuteurs nous ont aidé dans notre tâche. Ils ont détaillés les besoins dans un document de spécification ; installés des environnements semblables à ceux en production pour faire tourner notre application en interne, et ; analysés le résultat de nos développements pour nous assurer que cela correspondaient aux spécifications.
+
+L’enjeu de ce projet était nouveau pour Quod Financial. L’entreprise avait déjà une application web mais la technologie datait et n’était plus d’actualité. Aussi, l’expérience utilisateur n’était pas optimale comparée à ce qui était possible de faire en 2015. Il s’agissait là pour Quod Financial de tester ses capacités à s’approprier les **nouvelles technologies du web**.
+
+## Un résultat satifaisant
+
+Par la suite, un troisième collègue est venu se joindre à nous dans le développement du Front End Tablet. Considérant que nous étions deux nouveaux qui n’avions pas d’expérience antérieure en entreprise, je pense pouvoir dire que nous ne nous en sommes pas si mal sorti. Bien-sûr, rétrospectivement, nous aurions pu mieux faire, mais nous avons beaucoup appris et progressé grâce à ce projet : **les suivants en ont grandement profités**.
+
+## Conclusion
+
+Ce projet a depuis été mis en production chez le client qui l’avait demandé. Il a aussi beaucoup évolué car nous avons migré de AngularJS (version 1.x) à Angular (version 2 et supérieures). J’ai beaucoup appris, et je me suis amélioré au fil des semaines. Je pense en retour avoir apporté tout le sérieux et la créativité dont je sais faire preuve, ce qui a j’espère bénéficié au projet.

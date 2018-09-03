@@ -1,0 +1,24 @@
+
+# Front End Mobile
+
+Le projet Front End Mobile est dans la ligné directe du projet Front End Tablet. Il s’agissait « simplement » d’adapter l’application à un écran plus petit. Le paradigme global de l’application n’a pas changé, les utilisateurs continueraient d’utiliser un écran tactile et nous avons conservé une partie conséquente du code existant.
+
+## Du neuf avec du vieux
+
+Ce projet avait plusieurs objectifs. Le premier était de **produire une application** similaire au Front End Tablet mais avec une interface repensée pour les téléphones mobiles. Le deuxième, d’un point de vue technique, était de **moderniser le base de code** du Front End Tablet car AngularJS, le framework que nous utilisions, a été mis à jour de fond en comble.
+
+L’enjeu était aussi important que pour le projet précédent. C’était l’occasion pour Quod Financial de « transformer l’essai ». Fort de notre première expérience avec AngularJS, nous avions l’occasion durant un mois de reprendre le bases technologiques du projet pour migrer vers la version 2 de AngularJS. Nous en avons profité pour remanier certaines parties du codes qui souffraient d’une accumulation de petits ajouts, qui, au fil du temps, ne formaient plus un tout cohérent.
+
+## On ne change pas une équipe qui gagne
+
+Le projet a commencé en reprenant le résultat du projet Tablet. Nous avons effectué quelques réunions de spécifications pour décider du contenu fonctionnel du projet. Globalement, nous avons passé moins de temps à cette étape comparé au projet précédent, car **une grande partie des fonctionnalités était identique**, seuls les écrans et les visuels ont changés.
+
+Pour ce projet, nous sommes passés de trois à deux développeurs comparé au projet Tablet. Le reste de l’équipe de Quod Financial est resté inchangé et nous avons profité de notre lancée pour réaliser le projet dans **les meilleures conditions**.
+
+## La réussite à la clé
+
+Bien que nous faisions du développement mobile, nous n’utilisions pas les technologies natives des constructeurs de téléphone (iOS et Android). Cela nous a demandé d’être créatifs pour implémenter les fonctionnalités et les visuels de l’application. Ce fut un risque que nous avons pris, car nous ne savions pas à l’avance si toutes nos idées seraient réalisables, ou s’il faudrait se contenter de solutions plus simples mais moins ergonomiques ou attractives. Malgré ce risque, nous sommes arrivé à un résultat très **satisfaisant et épuré**. Que ce soit l’objectif principal ou technique, nous avons su **relever le défi**.
+
+## Conclusion
+
+Ce projet m’a permit de consolider mes acquis techniques, mais aussi de progresser, notamment avec l’introduction de TypeScript. En retour, je pense avoir fait profité ce projet de ma créativité et de ma rigueur technique pour améliorer l’aspect logiciel et architecture du projet.
