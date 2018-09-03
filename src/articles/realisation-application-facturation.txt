@@ -7,7 +7,7 @@ Le projet que j’ai réalisé avait donc pour but de développer une solution i
 
 ## La naissance du projet
 
-Une première étape préalable à tout développement est de recueillir les besoins du client. Nous avons organisé deux réunions pour cela. J’ai adopté un profil d’observation lors de la première réunion. Je me suis imprégné du fonctionnement et du vocabulaire de l’entreprise. J’en ai profité pour poser des questions d’ordre général pour comprendre les enjeux et les parties prenantes potentiellement impliqués par ce que j’allais développer. Nous avons ensuite organisé une deuxième réunion où j’ai été beaucoup plus directif dans mes questions. J’ai balayé un large éventail de possibilités à prendre en compte lors du développement. On peut citer par exemple le calcul de la TVA et les différents taux en vigueur.
+Une première étape préalable à tout développement est de recueillir les besoins du client. Nous avons organisé deux réunions pour cela. J’ai adopté un profil d’observation lors de la première réunion. **Je me suis imprégné du fonctionnement et du vocabulaire de l’entreprise.** J’en ai profité pour poser des questions d’ordre général pour comprendre les enjeux et les parties prenantes potentiellement impliquées par ce que j’allais développer. Nous avons ensuite organisé une deuxième réunion où j’ai été beaucoup plus directif dans mes questions. J’ai balayé un large éventail de possibilités à prendre en compte lors du développement. On peut citer par exemple le calcul de la TVA et les différents taux en vigueur.
 
 Avec toutes ces informations, j’ai produit un « Cahier des charges » où les objectifs, le contexte et les enjeux du projet étaient décrit au propre.
 
@@ -30,13 +30,13 @@ Une fois rédigé, j’ai présenté le Cahier des charges au client qui l’a a
 
 Pour se faire une idée de ce qu’il s’agit, nous pouvons résumer comme suit : une base de donnée (MySQL), un serveur web (PHP), une interface web (HTML/CSS). Ces technologies forment la structure classique d’un site web comme Twitter ou Facebook.
 
-Les étapes initiales du développement étaient découpées en deux, une première grosse partie pour développer du code technique et une deuxième partie davantage visuelle. Ces deux parties étaient terminées par une réunion d’étape pendant laquelle je faisait une démonstration de mon avancement. La première partie a pris plus de temps car le développement initial ne produit pas beaucoup de fonctionnalité démontrables au début du projet. Il a fallut mettre en place le serveur web, écrire les requêtes SQL et le code de traitement. C’est seulement lors de la deuxième partie que j’ai pu axer le développement sur l’aspect graphique et expérience utilisateur.
+Les étapes initiales du développement étaient découpées en deux, une première grosse partie pour développer du **code technique** et une deuxième partie davantage **visuelle**. Ces deux parties étaient terminées par une réunion d’étape pendant laquelle je faisait une démonstration de mon avancement. La première partie a pris plus de temps car le développement initial ne produit pas beaucoup de fonctionnalité démontrables au début du projet. Il a fallut mettre en place le serveur web, écrire les requêtes SQL et le code de traitement. C’est seulement lors de la deuxième partie que j’ai pu axer le développement sur l’aspect graphique et expérience utilisateur.
 
 ## L’après projet
 
-J’ai fait la livraison finale le 23 avril 2014, deux mois après le début du projet. Mme Rodrigues était contente de mon travail, mais ce que j’allais découvrir quelques jours plus tard seulement, c’est qu’il manquait beaucoup de fonctionnalités et qu’il restait encore beaucoup de bugs. Le futur immédiat du projet a été de terminer les fonctionnalité manquantes ou défaillantes, dans ce que j’appellerais une étape de maturation.
+J’ai fait la livraison finale le 23 avril 2014, deux mois après le début du projet. Mme Rodrigues était contente de mon travail, mais ce que j’allais découvrir quelques jours plus tard seulement, c’est qu’il manquait beaucoup de fonctionnalités et qu’il restait encore beaucoup de bugs. Le futur immédiat du projet a été de terminer les fonctionnalité manquantes ou défaillantes, dans ce que j’appellerais une « étape de maturation ».
 
-Il s’est aussi avéré que j’avais mal compris certains besoins. Au fur et à mesure que le temps passait, il y a eu de nombreuses modifications car les besoins évoluaient en même temps que l’adoption progressive de mon application. Nous avons donc conclu un contrat de maintenance à facturation mensuel pour que je puisse intervenir plus rapidement et sans passer par les étapes de : devis -> acceptation/refus -> développement -> facturation.
+Il s’est aussi avéré que j’avais mal compris certains besoins. Au fur et à mesure que le temps passait, il y a eu de nombreuses modifications car **les besoins évoluaient** en même temps que l’adoption progressive de mon application. Nous avons donc conclu un contrat de maintenance à facturation mensuel pour que je puisse intervenir plus rapidement et sans passer par les étapes de : devis -> acceptation/refus -> développement -> facturation.
 
 ## Conclusion
 
@@ -45,3 +45,10 @@ Ma cliente utilise toujours le logiciel d’origine à la date d’écriture de 
 J’ai énormément appris lors de cette réalisation, autant sur le plan technique, humain ou entrepreneurial. J’ai conscience que cette application a beaucoup de défauts, et la majeur partie des développements ultérieurs était demandés par ma cliente pour palier à ce problème.
 
 Mon apport personnel a grandement aidé l’entreprise Solipropre a entamer sa « transition numérique ». J’ai des qualité d’écoute et d’analyse qui ont servi à produire une solution logicielle qui répond au mieux aux attentes.
+
+### Compétences liées
+
+- [Développement full stack](competence-developpeur-full-stack.html)
+- [Environnement Linux](competence-environement-linux.html)
+- [JavaScript](competence-javascript.html)
+- [Recueil des besoins](competence-recueil-besoins.html)

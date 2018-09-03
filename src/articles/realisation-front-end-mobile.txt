@@ -22,3 +22,8 @@ Bien que nous faisions du développement mobile, nous n’utilisions pas les tec
 ## Conclusion
 
 Ce projet m’a permit de consolider mes acquis techniques, mais aussi de progresser, notamment avec l’introduction de TypeScript. En retour, je pense avoir fait profité ce projet de ma créativité et de ma rigueur technique pour améliorer l’aspect logiciel et architecture du projet.
+
+### Compétences liées
+
+- [Anglais](competence-anglais.html)
+- [JavaScript](competence-javascript.html)

@@ -22,3 +22,8 @@ Par la suite, un troisième collègue est venu se joindre à nous dans le dével
 ## Conclusion
 
 Ce projet a depuis été mis en production chez le client qui l’avait demandé. Il a aussi beaucoup évolué car nous avons migré de AngularJS (version 1.x) à Angular (version 2 et supérieures). J’ai beaucoup appris, et je me suis amélioré au fil des semaines. Je pense en retour avoir apporté tout le sérieux et la créativité dont je sais faire preuve, ce qui a j’espère bénéficié au projet.
+
+### Compétences liées
+
+- [Anglais](competence-anglais.html)
+- [JavaScript](competence-javascript.html)

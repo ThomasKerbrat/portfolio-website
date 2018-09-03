@@ -22,3 +22,8 @@ Jusqu’à présent, je me suis concentré sur l’aspect opérationnel (mise en
 ## Conclusion
 
 À l’heure où j’écris ces lignes, je pense être un ingénieur logiciel robuste et adaptable. J’ai encore beaucoup de choses à apprendre, il y a de nouvelles technologies qui sortent très fréquemment et il faut sans cesse évaluer leur intérêt. Cela demande des connaissances fondamentales et une bonne dose d’expérience. Je suis loin de maîtriser tous les aspects réseau, notamment en ce qui concerne le modèle OSI ou les mécanismes de routage pour ne citer que ceux-là. En revanche, j’ai démontré à trois reprises, lors de trois projets différents, que j’étais capable de les mener à leur terme. C’est un outil très appréciable dans mon métier.
+
+### Réalisations liées
+
+- [Application de facturation](realisation-application-facturation.html)
+- [Savoir Être Aidant](realisation-savoir-etre-aidant.html)

@@ -24,3 +24,7 @@ Le deuxième projet, Savoir Être Aidant, est un site internet qui présente des
 Je considère aujourd’hui que j’ai un bon niveau en JavaScript. J’ai eu l’occasion d’approfondir les principes fondamentaux du langage grâce à ma formation en alternance à IN’TECH. Cependant, l’écosystème JavaScript bouge rapidement. De nouvelles fonctionnalités sont ajoutés au langage chaque année. De nouvelles librairies et frameworks sont créer en permanence. Il faut donc que je me tienne informé, tout en faisant le tri dans le bruit de fond permanent de cet écosystème.
 
 J’ai l’intention d’étendre mes connaissances JavaScript en poursuivant mon apprentissage des technologies liés à NodeJS, et notamment Electron qui permet de créer des application graphiques telles qu’on a l’habitude de manipuler à l’instar de Word, iTunes ou l’explorateur de fichier. Cela me permettra d’être encore plus polyvalent dans mes domaines d’intervention et dans les solutions que je peux proposer en tant que développeur.
+
+### Réalisations liées
+
+- [Toutes mes réalisations](realisations.html)

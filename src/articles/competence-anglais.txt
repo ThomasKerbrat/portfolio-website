@@ -5,26 +5,30 @@ L’apprentissage d’une autre langue, en plus de la langue maternelle, permet 
 
 ## Omniprésence sur internet
 
-La maitrise de l’anglais permet d’accéder à davantage de contenu, notamment sur internet. Au 1er juillet 2018, plus de [52%][1] du contenu était écrit en anglais. Parmi les exemples les plus notables, la très grande majorité des contenus techniques - documentations, forum d’aide, tutoriels - est uniquement disponible en anglais. Il est à noter que les sites les plus populaires commencent à traduire leurs contenu. Cependant, lorsque l’on souhaite demander de l’aide à une très grande communauté de développeurs - par exemple le réseau Stack Exchange - l’anglais est de facto la langue utilisée.
+La maitrise de l’anglais permet d’accéder à davantage de contenu, notamment sur internet. Au 1er juillet 2018, plus de [52%][1] du contenu était écrit en anglais. Parmi les exemples les plus notables, la très grande majorité des contenus techniques - documentations, forum d’aide, tutoriels - est **uniquement disponible en anglais**. Il est à noter que les sites les plus populaires commencent à traduire leurs contenu. Cependant, lorsque l’on souhaite demander de l’aide à une très grande communauté de développeurs - par exemple le réseau Stack Exchange - l’anglais est de facto la langue utilisée.
 
 [1]: https://w3techs.com/technologies/history_overview/content_language
 
-Dans le cadre de nombreux projets, dont ceux avec Quod Financial et mon auto-entreprise, j’ai été amené consulter les documentations techniques des outils que j’utilisais. L’outil le plus emblématique en développement front-end qui nécessite de lire la documentation est Angular. Ce framework JavaScript de dernière génération devient très complexe lorsque l’on souhaite le pousser dans ses retranchements. C’est ce que j’ai fait lorsque j’ai développé la librairie de wizard*. Il m’a fallu parcourir de nombreuses pages de documentation, ainsi que de chercher des solutions aux problèmes que je rencontraient au fur et à mesure.
-
-* Voir : Recueil des besoins
+Dans le cadre de nombreux projets, dont ceux avec Quod Financial et mon auto-entreprise, j’ai été amené consulter les documentations techniques des outils que j’utilisais. L’outil le plus emblématique en développement front-end qui nécessite de lire la documentation est Angular. Ce framework JavaScript de dernière génération devient très complexe lorsque l’on souhaite le pousser dans ses retranchements. C’est ce que j’ai fait lorsque j’ai développé la librairie de wizard. Il m’a fallu parcourir de nombreuses pages de documentation, ainsi que de chercher des solutions aux problèmes que je rencontraient au fur et à mesure.
 
 ## L’anglais en entreprise
 
-En informatique et dans nos vies professionnelles, l’anglais est de plus en plus incontournable. J’ai pu l’observer de près dans mon expérience de développeur front-end à Quod Financial. La plupart des mails que nous échangions était rédigé en anglais car l’entreprise s’articule autour de multiples équipes réparties autour de la planète. Il nous fallait donc une langue de travail, et c’est tout naturellement l’anglais qui était utilisé.
+En informatique et dans nos vies professionnelles, l’anglais est de plus en plus incontournable. J’ai pu l’observer de près dans mon expérience de développeur front-end à Quod Financial. La plupart des mails que nous échangions était rédigé en anglais car l’entreprise s’articule autour de **multiples équipes réparties autour de la planète**. Il nous fallait donc une langue de travail, et c’est tout naturellement l’anglais qui était utilisé.
 
-L’utilisation de l’anglais ne s’arrêtait pas aux échanges de mails. Avec mes collègues, nous l’utilisions aussi pour documenter des procédures ou commenter du code informatique. Encore mieux ! Il nous est arrivé de conduire des réunions dans la langue de Shakespeare car l’un de nos collègue ne parlait pas français. Cette réunion était à propos de mise en place d’un nouveau projet avec le framework Angular version 2.0. J’avais réalisé au paravant un « Proof of Concept » (en bon français) de la solution et nous avons discuté de la migration des projets existants vers cette nouvelles technologie car elle était prometteuse.
+L’utilisation de l’anglais ne s’arrêtait pas aux échanges de mails. Avec mes collègues, nous l’utilisions aussi pour documenter des procédures ou commenter du code informatique. Encore mieux ! Il nous est arrivé de **conduire des réunions dans la langue de Shakespeare** car l’un de nos collègue ne parlait pas français. Cette réunion était à propos de mise en place d’un nouveau projet avec le framework Angular version 2.0. J’avais réalisé au paravant un « Proof of Concept » (en bon français) de la solution et nous avons discuté de la migration des projets existants vers cette nouvelles technologie car elle était prometteuse.
 
 ## Mon niveau actuel, et la suite
 
-Je pense avoir un bon niveau d’anglais avec une aisance plus affirmée à l’écrit qu’à l’oral. Le dernier score de TOEIC que j’ai eu en juin 2014 était de 885. Aussi, je n’ai aucune difficulté à comprendre des contenus anglophones grâce aux nombreuses heures d’écoute et de visionnage que j’effectue chaque semaines. Je prend plaisir à écouter les films et les séries TV en version originale. Je me suis rendu compte que je préférais les voix des acteurs anglophones à leurs doubles francophones. Aussi, pratiquer la compréhension orale est essentiel, car l’anglais est utilisé dans de nombreux pays, avec de nombreux accents.
+Je pense avoir un bon niveau d’anglais avec une aisance plus affirmée à l’écrit qu’à l’oral. Le dernier **score de TOEIC que j’ai eu en juin 2014 était de 885**. Aussi, je n’ai aucune difficulté à comprendre des contenus anglophones grâce aux nombreuses heures d’écoute et de visionnage que j’effectue chaque semaines. Je prend plaisir à écouter les films et les séries TV en version originale. Je me suis rendu compte que je préférais les voix des acteurs anglophones à leurs doubles francophones. Aussi, pratiquer la compréhension orale est essentiel, car l’anglais est utilisé dans de nombreux pays, avec de nombreux accents.
 
-Un de mes axes d’amélioration est l’expression orale. Il m’est encore difficile de construire une conversation étoffée en anglais. Bien que mon vocabulaire technique soit très bon, j’ai encore beaucoup de lacunes sur « l’anglais du quotidien ». J’ai d’ailleurs beaucoup de mal à retenir l’orthographe et l’ordre des noms des jours.
+Un de mes axes d’amélioration est *l’expression orale*. Il m’est encore difficile de construire une conversation étoffée en anglais. Bien que mon vocabulaire technique soit très bon, j’ai encore beaucoup de lacunes sur l’anglais du quotidien. J’ai d’ailleurs beaucoup de mal à retenir l’orthographe et l’ordre des noms des jours en anglais.
 
 ## Conclusion
 
 La maîtrise de la langue anglaise est une compétence indispensable dans notre métier et dans nos vies professionnelles. J’ai plaisir à l’utiliser car elle me permet de consommer beaucoup de contenu indisponible en français. J’aimerais apprendre une autre langue dans un futur proche afin de parfaire mes compétences en compréhension et expression oral. Je pense que cela m’ouvrira encore plus d’horizons et d’opportunités.
+
+### Réalisations liées
+
+- [Front End Tablet](realisation-front-end-tablet.html)
+- [Front End Mobile](realisation-front-end-mobile.html)
+- [Front End Smart](realisation-front-end-smart.html)
