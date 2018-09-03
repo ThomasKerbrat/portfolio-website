@@ -30,8 +30,3 @@ Pour ma part, j’ai quitté l’entreprise pour des raisons de santé vers la f
 ## Conclusion
 
 Ce projet a été une belle démonstration de notre capacité technique. Nous avons réutilisé nos expériences passés pour prendre les bonnes décisions d’architecture et de code tout en utilisant les dernières technologies. C’était un projet hybride, à la fois interne et destiné à un client. Nous avions donc toute la liberté technique et un objectif clair et précis dans un temps donné. Ce logiciel continuera d’être développé et j’espère que ma contribution initiale sera utile encore longtemps.
-
-### Compétences liées
-
-- [Anglais](competence-anglais.html)
-- [JavaScript](competence-javascript.html)

@@ -26,9 +26,3 @@ Un de mes axes d’amélioration est *l’expression orale*. Il m’est encore d
 ## Conclusion
 
 La maîtrise de la langue anglaise est une compétence indispensable dans notre métier et dans nos vies professionnelles. J’ai plaisir à l’utiliser car elle me permet de consommer beaucoup de contenu indisponible en français. J’aimerais apprendre une autre langue dans un futur proche afin de parfaire mes compétences en compréhension et expression oral. Je pense que cela m’ouvrira encore plus d’horizons et d’opportunités.
-
-### Réalisations liées
-
-- [Front End Tablet](realisation-front-end-tablet.html)
-- [Front End Mobile](realisation-front-end-mobile.html)
-- [Front End Smart](realisation-front-end-smart.html)

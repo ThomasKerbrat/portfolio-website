@@ -45,10 +45,3 @@ Ma cliente utilise toujours le logiciel d’origine à la date d’écriture de 
 J’ai énormément appris lors de cette réalisation, autant sur le plan technique, humain ou entrepreneurial. J’ai conscience que cette application a beaucoup de défauts, et la majeur partie des développements ultérieurs était demandés par ma cliente pour palier à ce problème.
 
 Mon apport personnel a grandement aidé l’entreprise Solipropre a entamer sa « transition numérique ». J’ai des qualité d’écoute et d’analyse qui ont servi à produire une solution logicielle qui répond au mieux aux attentes.
-
-### Compétences liées
-
-- [Développement full stack](competence-developpeur-full-stack.html)
-- [Environnement Linux](competence-environement-linux.html)
-- [JavaScript](competence-javascript.html)
-- [Recueil des besoins](competence-recueil-besoins.html)

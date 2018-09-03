@@ -30,10 +30,3 @@ Aujourd’hui, le projet a été repris par un autre développeur. J’ai effect
 Pour conclure, je dirais que ce projet a globalement été un échec. Nous n’avons pas livré ce que nous avions promis et le projet a pris énormément de retard. Les problèmes de santé qui m’ont affectés n’ont pas arrangé cette situation. Cependant, après un an de recul, je commence à **accepter cet échec** et à le porter comme un exemple de ce qu’il ne faudra pas refaire. Je devrai soigner la communication avec le client, mieux estimer les délais de réalisation (même s’ils paraissent long) et respecter les délais en priorisant les tâches.
 
 Être au contact du client en free-lance est une toute autre expérience que d’être développeur salarié. Il y a davantage de pression car on doit s’occuper de beaucoup plus de choses différentes et le plus souvent dans des délais raccourcis. Aussi, il n’y a pas le filtre que l’on pourrait avoir de la part de son responsable ou de l’équipe marketing. Nous sommes en prise direct avec le client, cela demande d’être empathique mais aussi de prendre du recul pour pouvoir piloter le projet.
-
-### Compétences liées
-
-- [Développement full stack](competence-developpeur-full-stack.html)
-- [Environnement Linux](competence-environement-linux.html)
-- [JavaScript](competence-javascript.html)
-- [Recueil des besoins](competence-recueil-besoins.html)

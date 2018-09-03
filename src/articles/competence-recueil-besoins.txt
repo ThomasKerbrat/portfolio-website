@@ -26,8 +26,3 @@ Chaque système, informatique ou non, est en interaction avec d’autres systèm
 ## Conclusion
 
 Le recueil des besoins est une compétence que j’ai acquise assez rapidement. Dès le semestre 2 à IN’TECH, nous devons rédiger des documents de spécification. Cela nous permet de nous mettre en situation dans un cadre pédagogique. Ma particularité est d’avoir réutilisé cette compétence peu de temps après l’avoir apprise à l’école pour réaliser un logiciel de facturation, toujours en production 4 ans après. J’utilise le recueil des besoin surtout dans le cadre de mon auto-entreprise car je ne peux pas appliquer cette compétence partout. Cependant, certains aspects de communication et de compréhension sont très utiles dans d’autres circonstances, y compris personnelles.
-
-### Réalisations liées
-
-- [Application de facturation](realisation-application-facturation.html)
-- [Savoir Être Aidant](realisation-savoir-etre-aidant.html)

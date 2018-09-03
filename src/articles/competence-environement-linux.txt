@@ -26,8 +26,3 @@ Je conseillerais à tout enthousiaste technophile de s’intéresser à Linux ca
 ## Conclusion
 
 En conclusion, Linux continuera de faire parti de mes compétences techniques. Il est omniprésent dans le monde de l’informatique et il me correspond dans son aspect du logiciel libre.
-
-### Réalisations liées
-
-- [Application de facturation](realisation-application-facturation.html)
-- [Savoir Être Aidant](realisation-savoir-etre-aidant.html)
